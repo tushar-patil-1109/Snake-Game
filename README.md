@@ -6,12 +6,13 @@ This project demonstrates basic game development concepts such as a game loop, k
 ---
 
 ## 📸 Screenshots
-<img width="376" height="413" alt="Screenshot 2026-01-30 201244" src="https://github.com/user-attachments/assets/20ff71f9-0aa5-4742-8f7d-695bb1420eaa" />
-<img width="376" height="413" alt="Screenshot 2026-01-30 202809" src="https://github.com/user-attachments/assets/4c6c6d2d-6263-4ba1-bb13-f5e10d856f70" />
+<img width="450" height="500" alt="Screenshot 2026-01-30 201244" src="https://github.com/user-attachments/assets/20ff71f9-0aa5-4742-8f7d-695bb1420eaa" />
+<img width="450" height="500" alt="Screenshot 2026-01-30 202809" src="https://github.com/user-attachments/assets/4c6c6d2d-6263-4ba1-bb13-f5e10d856f70" />
 
 ---
 
 ## 🚀 Features
+
 - Real-time snake movement using keyboard input
 - Random food (apple) generation
 - Score tracking
@@ -22,11 +23,33 @@ This project demonstrates basic game development concepts such as a game loop, k
 ---
 
 ## 🛠️ Technologies Used
+
 - **Java (Core Java)**
 - **Swing & AWT**
 - **NetBeans IDE**
 - **Ant Build Tool**
 
+---
+
+## 📂 Project Structure
+
+```text
+Snake Game/
+│── src/
+│   └── snakegame/
+│       ├── SnakeGame.java
+│       ├── Board.java
+│       └── icons/
+│           ├── apple.png
+│           ├── dot.png
+│           └── head.png
+│
+│── dist/
+│   └── SnakeGame.jar
+│
+│── build.xml
+│── manifest.mf
+```
 ---
 
 ## ▶️ How to Run the Project
@@ -91,3 +114,6 @@ This project demonstrates basic game development concepts such as a game loop, k
 
 ### 👤 Author :- Tushar Bhagwat Patil
 
+---
+
+### Don’t forget to star ⭐ the repository and share your feedback!
