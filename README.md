@@ -70,12 +70,12 @@ This project demonstrates basic game development concepts such as a game loop, k
 
 ### 📘 Key Concepts Demonstrated
 
-Object-Oriented Programming (OOP)
-Event handling in Java
-Swing painting & rendering
-Game loop using Timer
-Collision detection logic
-Array-based movement handling
+- Object-Oriented Programming (OOP)
+- Event handling in Java
+- Swing painting & rendering
+- Game loop using Timer
+- Collision detection logic
+- Array-based movement handling
 
 ---
 
